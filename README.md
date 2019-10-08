@@ -31,7 +31,7 @@
 - 多語系設計
 - ip位置工具(github.com/ipipdotnet/ipdb-go)
 
-# 功能
+# 應用
 - HTTP API層與 RPC服務層分離的目的
 - 用戶身份驗證(登入、登出、API使用權限)
 - DB連線池與讀寫分離設計
