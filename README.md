@@ -47,5 +47,5 @@
 ## 4. 其他
 此章節會說明特定功能的設計.
 
-- 用戶身份驗證(登入、登出、API使用權限)
+- [用戶身份驗證(登入、登出、API使用權限)](https://github.com/lya79/systemdesign/blob/master/%E5%85%B6%E4%BB%96-%E7%94%A8%E6%88%B6%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89.md)
 - HTTP API層與 RPC服務層分離的目的
