@@ -1,10 +1,12 @@
 # 系統架構學習
+
+# 摘要
+
 後續章節是依據自己實務經驗做的筆記. 
 
 # 目錄
 
 ## 2. HTTP API層
-此章節會說明用到哪些技術與知識, 以及為何使用.
 
 ### 2.1. 環境設定
 - 設定 /etc/host
@@ -26,7 +28,6 @@
 - cron(github.com/robfig/cron/tree/v3.0.0)
 
 ## 3. RPC服務層  
-此章節會說明用到哪些技術與知識, 以及為何使用.
 
 ### 3.1. 系統架構
 - 目錄規劃
@@ -45,7 +46,6 @@
 - ip位置工具(github.com/ipipdotnet/ipdb-go)
 
 ## 4. 其他
-此章節會說明特定功能的設計.
 
 - 用戶身份驗證(登入、登出、API使用權限)
     - [登入](https://github.com/lya79/systemdesign/blob/master/%E5%85%B6%E4%BB%96-%E7%94%A8%E6%88%B6%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89-%E7%99%BB%E5%85%A5.md)
