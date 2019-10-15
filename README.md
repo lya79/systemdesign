@@ -51,4 +51,8 @@
     - [登入](https://github.com/lya79/systemdesign/blob/master/%E5%85%B6%E4%BB%96-%E7%94%A8%E6%88%B6%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89-%E7%99%BB%E5%85%A5.md)
     - [登出](https://github.com/lya79/systemdesign/blob/master/%E5%85%B6%E4%BB%96-%E7%94%A8%E6%88%B6%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89-%E7%99%BB%E5%87%BA.md)
     - [其他 API如何驗證有無登入](https://github.com/lya79/systemdesign/blob/master/%E5%85%B6%E4%BB%96-%E7%94%A8%E6%88%B6%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89-%E5%85%B6%E4%BB%96API%E5%A6%82%E4%BD%95%E9%A9%97%E8%AD%89%E6%9C%89%E7%84%A1%E7%99%BB%E5%85%A5.md)
-- HTTP API層與 RPC服務層分離的目的
+- ＭySQL與 Redis連線池的設計
+- Redis快取 ＭySQL機制
+
+## 5. 參考
+- [微服務架構 系列文章](https://columns.chicken-house.net/2016/09/15/microservice-case-study-01/)
